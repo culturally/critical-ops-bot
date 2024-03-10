@@ -1,7 +1,9 @@
 ## Overview
 
 A Discord bot optimized for Critical Ops utilizes the game's public API to deliver real-time statistics, updates, and notifications to Discord.
+
 Checks each line in response for certain text because the response is php-like array, feel free to use regex instead if you want.
+
 (Edit if you actually use content headers json you will get json response but unfortunately i did it the hard way before i realised lol)
 
 ## Commands
